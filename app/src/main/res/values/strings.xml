@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetoothLETest3</string>
+    <string name="ble_uuid">0000affe-0000-1000-8000-00805f9b34fb</string>
+    <!--<string name="ble_uuid">f9f0e245-6c9d-45df-942b-f929d5bd1574</string> -->
+    <string name="start_scan">Start Scan</string>
+    <string name="start_advertising">Start Advertising</string>
+</resources>
